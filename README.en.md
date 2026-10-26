@@ -70,7 +70,7 @@ Full history: [README commits](https://github.com/sit-in/awesome-grokbot-playboo
 ## 📚 Contents
 
 - [Official & SDK](#-official--sdk) (5) - official docs, marketplace, SDKs and CLIs
-- [Templates & directories](#-templates--directories) (12) - template libraries, bot-share indexes and use-case sites; check here first
+- [Templates & directories](#-templates--directories) (13) - template libraries, bot-share indexes and use-case sites; check here first
 - [Skills & Playbooks](#-skills--playbooks) (41) - skills, MCP, single templates, copy-paste profiles
 - [Multi-bot teams](#-multi-bot-teams) (26) - war rooms, coordinators, multi-agent work
 - [Routines & Digests](#-routines--digests) (7) - scheduled radars, weekly reviews, usage control
@@ -105,6 +105,7 @@ Full history: [README commits](https://github.com/sit-in/awesome-grokbot-playboo
 - [GrokBot HQ](https://github.com/V-harshith/grokbothq) - Source of grokbothq.xyz: 4,200+ Grok bots by category, plus combos, guides and comparisons with Custom GPTs and others. The author says every listing is opened and tested by a human before publishing; we have not re-checked them. Code MIT, content CC BY 4.0. Tags: `directory` `combos` `guides`
 - [Grok Bot Hub](https://github.com/ddhjy/grok-bot-hub) - An unofficial Chinese-language Grok Bot directory, live at ddhjy.github.io/grok-bot-hub: tutorials, templates and tools by section, each with a one-line Chinese note. Entries live in the repo's `catalog.json`, new ones come in by PR, and a validation script runs before each commit. Close in scope to this repo, so the two are worth browsing side by side. Code MIT, catalog data CC0. Tags: `directory` `chinese` `catalog`
 - [grok-bot-templates](https://github.com/ChamathRosh/grok-bot-templates) - Six free templates for small businesses: quote follow-ups, missed-call replies, review replies, invoice reminders and a morning brief, plus a planner that asks five questions and picks your first bot. Drafts only: nothing is sent or paid for you, and missing details stay as `[FILL IN]` instead of being made up. Only the planner has a one-click install link so far; for the others, paste the instructions into an empty bot as its first message. The README links heavily to the author's site whatshouldmybotdo.com. MIT. Tags: `template` `small-business` `drafts-only`
+- [Money With AI](https://moneywithai.net/) - English directory of 300+ public Grok Bot setups sorted by business job, plus 130+ use cases that chain several bots into one workflow with steps, tools and the human approval point. Every entry credits its creator and links the original source, with the official share link where one exists; free JSON API and read-only MCP (author-related). Tags: `directory` `use-cases` `mcp`
 
 <sub>[⬆ Back to contents](#-contents)</sub>
 
