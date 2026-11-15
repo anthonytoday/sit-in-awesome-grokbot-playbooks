@@ -25,6 +25,7 @@
 - [How to Grok Bot (Non-Slop)](https://x.com/im_insulting/status/2099228547760128299) — @im_insulting · 英文 X 长文：把非核心任务交给 bot 的务实做法 · 2026-09-14
 - [Grok Bot 从 0 到 1｜用云电脑和插件，搭一个能干活的 X 助手](https://juejin.cn/post/7684649314158510114) — 小墨同学boy · 掘金 · 在 M 系列 Mac 上安装登录，给云电脑接 Cloudflare WARP 换出口 IP（保留内网和控制通道），再补齐 X 开发者账号、项目和 App 让 X 插件真正连上，附一条只读验证指令；X API 按量付费，按 2026-08-31 的界面写，注意时效 · 2026-09-13
 - [How to tell whether a Grok Bot workflow actually works](https://www.grokbotwiki.com/guides/evaluate-a-workflow) — Grok Bot Wiki · 独立站 · 英文。上自动化之前怎么验收一条工作流：分别用正常、含糊、空输入、来源打不开四类案例去跑，按来源忠实度、完整性、权限边界、失败处理等 8 项打分，记下人工复核花的时间；附可下载的 CSV 检查表和审阅提示词。打分框架是站方自拟，不是实测成绩；站方自荐（作者相关），站内有广告位招商 · 2026-09-06
+- [Grok Bot security risks for small businesses](https://moneywithai.net/guides/grok-bot-security-risks/) — Money With AI · 独立站 · 英文。把小团队用 Grok Bot 的 7 类风险逐条对上官方文档：多个 bot 共用一台云电脑和登录态、连接器权限过宽、邮件和网页里的提示注入、由模型判断哪些操作要你批准、Vault 里存的卡结账时不再单独确认、数据保留、导入的模板；每类给一条能照着做的控制措施，附 29 条可打印检查表。站方自荐（作者相关），站内有付费代搭服务 · 2026-11-15
 
 ## 多 Agent 作战室
 
